@@ -8,7 +8,7 @@ Perdido no mundo dos estilos de API?
 
 Decodificado os segredos dos 6 estilos de API mais importantes para você, para que você possa economizar tempo e se concentrar no que mais importa! 🚀🎯
 
-![API Styles](./resouces/api-styles.jpeg)
+![API Styles](./resources/api-styles.jpeg)
 
 # SOAP:
 
